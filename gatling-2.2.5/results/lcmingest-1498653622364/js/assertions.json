@@ -1,0 +1,10 @@
+{
+  "simulation": "sky.LcmIngest",
+  "simulationId": "lcmingest",
+  "start": 1498653622364,
+  "description": "",
+  "scenarios": ["Ingesting XML file"],
+  "assertions": [
+
+  ]
+}
